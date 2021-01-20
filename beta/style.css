@@ -18,6 +18,8 @@ body {
 }
 
 #navbar {
+	top: 0;
+	left: 0;
 	background: #a3ceff;
 	height: 7em;
 	position: fixed;
@@ -64,6 +66,8 @@ body {
 	margin: 20px 0;
 	font-weight: bold;
 }
+
+/** PROJECTS **/
 
 #projects {
 	background: #a3ceff;
@@ -115,6 +119,8 @@ body {
 	font-size: 1.5rem;
 	padding: 2em;
 }
+
+/** FOOTER **/
 
 #contact {
 	background: linear-gradient(#2b5380, #4584cc);
